@@ -49,7 +49,7 @@ Para agregar *Listas Ordenadas* colocar un asterisco, espacio seguido de lo que 
 
 Para agregar imagenes, se sigue el mismo procedimiento que la que se usa para agregar links pero con el signo de admiracion por delante
 
-![Icono de Ejemplo](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1Mu3b?ver=5c31)
+![Icono de Ejemplo](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1Mu3b?ver=5c31 "Agregar comillas para agregar una descripcion")
 
 > Esto es una cita, se usa el signo mayor para generarlo
 
