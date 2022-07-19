@@ -10,18 +10,29 @@ Titulos - Para Agregar Titulos, colocar el simbolo # , por ejemplo, para H1, col
 
 <!--Énfasis en Palabras-->
 
-Esto es para colocar en *Cursiva*
+Esto es para colocar en * *Cursiva* *
 
-Esto es para colocar en **Negrita**
+Esto es para colocar en ** **Negrita** **
 
-Esto es para colocar ~~tachado~~
+Esto es para colocar ~~  ~~tachado~~ ~~
 
 <!-- Para listas Desordenadas -->
+
+## Listas Desordenadas
+
+Para agregar *Listas Desordenadas* colocar un asterisco, espacio seguido de lo que se desea listar.
+
 * Listas
 * Listas 2
 * Listas 3
+* Listas 4
 
 <!-- Para listas Ordenadas -->
+## Listas Ordenadas
+
+Para agregar *Listas Ordenadas* colocar un asterisco, espacio seguido de lo que se desea listar.
+
+
 1. Listas Ordenadas 1
 2. Listas Ordenadas 2
 
